@@ -1,0 +1,10 @@
+[
+  {
+    "package": "lisa",
+    "oncran": true
+  },
+  {
+    "package": "vov",
+    "oncran": true
+  }
+]

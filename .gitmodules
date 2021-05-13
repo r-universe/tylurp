@@ -8,10 +8,8 @@
 	url = https://github.com/tylurp/lisa
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "vov"]
 	path = vov
 	url = https://github.com/tylurp/vov
 	shallow = true
 	registered = true
-	oncran = true
